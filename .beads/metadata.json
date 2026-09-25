@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_database": "izi_resume",
+  "project_id": "a8ea36ff-e1b6-4bac-a90a-e6a6f8626c3c"
+}

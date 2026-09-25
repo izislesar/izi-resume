@@ -1,0 +1,10 @@
+log_level: warning
+behavior:
+    auto_gc_behavior:
+        archive_level: 0
+listener:
+    host: 127.0.0.1
+    port: 35763
+cfg_dir: /home/izislesar/Projects/izi-resume/.beads/dolt/.doltcfg
+user_session_vars: []
+jwks: []
